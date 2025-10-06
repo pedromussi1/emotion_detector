@@ -75,7 +75,7 @@ source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`</code></pr
 <h2>Deployment</h2>
 <p>The application is hosted on <b>Streamlit Cloud</b>, which automatically builds the environment based on <code>requirements.txt</code> and serves the app in a web-friendly format. Streamlit handles dependency installation, deployment, and version control integration with GitHub for seamless updates.</p>
 
-<h2><a href="https://github.com/pedromussi1/emotion-detector/blob/main/train_model.py">Model Training Code (optional link)</a></h2>
+<h2><a href="https://github.com/pedromussi1/emotion_detector/blob/main/train_model.py">Model Training Code (optional link)</a></h2>
 
 <h3>Upload Audio</h3>
 <p align="center">
